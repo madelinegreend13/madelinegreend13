@@ -1,12 +1,12 @@
-# Hi, I'm Madeline Green!
+# Hi there, I'm Madeline Green! 👋
 
-## About me
-- Grade 8 at George H. Moody Middle School
-- Learning to code in Python & JS
-- Building cool projects!
+## About Me
+- 🎓 8th grader at George H. Moody Middle School
+- 💻 Learning to code in Python & JavaScript
+- 🚀 Building cool projects along the way!
 
-## My Skills
-'Python' 'HTML' 'CSS'
+## Skills
+`Python` `HTML` `CSS`
 
 ## Connect with Me
-[Email] (mdgreen_1st@icloud.com)
+📧 [Email](mailto:mdgreen_1st@icloud.com)
